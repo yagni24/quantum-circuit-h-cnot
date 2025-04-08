@@ -93,7 +93,7 @@ bell-state-qiskit/
 
 ```
 Result: qiskit.result.result.Result(...)
-Counts: {'00': 518, '11': 506}
+Counts: {'00': 515, '11': 509}
 ```
 
 ---
